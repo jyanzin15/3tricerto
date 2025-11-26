@@ -1,0 +1,75 @@
+body{
+    background-color: #00c3ff;
+    text-align: center;
+}
+header {
+ text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(253, 254, 255);
+}
+
+nav a {
+  width: 200px;
+  text-align:center;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0ab0e2
+}
+.h1 {
+    font-style: italic;
+    color: white;
+    font-size: larger;
+}
+.h2 {
+    color: white;
+    font-weight: 200;
+}
+.logoWEC{
+    width: 55%;
+}
+.lista{
+    text-align: center;
+    color: white;  
+}
+.P1 {
+    color: black;
+}
+.P2 {
+    color: black;
+}
+.P3 {
+    color: black;
+}
+.P4 {
+    color: black;
+}
+.P5 {
+    color: black;
+}
+.P6 {
+    color: black;
+}
+.P7 {
+    color: black;
+}
+.P8 {
+    color: black;
+}
+h3{
+    color: white;
+    font-weight: 200;
+}
